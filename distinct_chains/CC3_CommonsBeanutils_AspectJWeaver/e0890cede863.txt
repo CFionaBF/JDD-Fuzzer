@@ -1,0 +1,14 @@
+# key: e0890cede863
+# sink: FILE
+# length: 9
+# IOCDs: 3356431
+# payload: shard-3/outputs/chains/3356431-e0890cede863exp
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+<java.util.Hashtable: void reconstitutionPut(java.util.Hashtable$Entry[],java.lang.Object,java.lang.Object)>
+<javax.sql.rowset.serial.SerialArray: boolean equals(java.lang.Object)>
+<java.util.Arrays: boolean equals(java.lang.Object[],java.lang.Object[])>
+<java.util.concurrent.ConcurrentHashMap: boolean equals(java.lang.Object)>
+<org.apache.commons.collections.map.LazyMap: java.lang.Object get(java.lang.Object)>
+<org.aspectj.weaver.tools.cache.SimpleCache$StoreableCachingMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<org.aspectj.weaver.tools.cache.SimpleCache$StoreableCachingMap: java.lang.String writeToPath(java.lang.String,byte[])>
+<java.io.FileOutputStream: void write(byte[])>

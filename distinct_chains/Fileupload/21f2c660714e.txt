@@ -1,0 +1,11 @@
+# key: 21f2c660714e
+# sink: FILE
+# length: 6
+# IOCDs: 1389940141
+# payload: shard-0/outputs/chains/1389940141-21f2c660714eexp
+<org.apache.commons.fileupload.disk.DiskFileItem: void readObject(java.io.ObjectInputStream)>
+<org.apache.commons.io.output.ThresholdingOutputStream: void write(byte[])>
+<org.apache.commons.io.output.ThresholdingOutputStream: void checkThreshold(int)>
+<org.apache.commons.io.output.DeferredFileOutputStream: void thresholdReached()>
+<org.apache.commons.io.output.ByteArrayOutputStream: void writeTo(java.io.OutputStream)>
+<java.io.FileOutputStream: void write(byte[],int,int)>

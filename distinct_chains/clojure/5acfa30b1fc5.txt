@@ -1,0 +1,11 @@
+# key: 5acfa30b1fc5
+# sink: CLOJURE
+# length: 6
+# IOCDs: 619717194
+# payload: shard-3/outputs/chains/619717194-5acfa30b1fc5exp
+<java.util.HashMap: void readObject(java.io.ObjectInputStream)>
+<java.util.HashMap: int hash(java.lang.Object)>
+<clojure.lang.ASeq: int hashCode()>
+<clojure.lang.Iterate: java.lang.Object first()>
+<clojure.main$eval_opt: java.lang.Object invoke(java.lang.Object)>
+<clojure.main$eval_opt: java.lang.Object invokeStatic(java.lang.Object)>

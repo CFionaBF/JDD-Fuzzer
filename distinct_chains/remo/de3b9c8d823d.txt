@@ -1,0 +1,12 @@
+# key: de3b9c8d823d
+# sink: INVOKE
+# length: 7
+# IOCDs: 117438539
+# payload: shard-1/outputs/chains/117438539-de3b9c8d823dexp
+<java.util.HashMap: void readObject(java.io.ObjectInputStream)>
+<java.util.HashMap: int hash(java.lang.Object)>
+<com.sun.syndication.feed.impl.EqualsBean: int hashCode()>
+<com.sun.syndication.feed.impl.EqualsBean: int beanHashCode()>
+<com.sun.syndication.feed.impl.ToStringBean: java.lang.String toString()>
+<com.sun.syndication.feed.impl.ToStringBean: java.lang.String toString(java.lang.String)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

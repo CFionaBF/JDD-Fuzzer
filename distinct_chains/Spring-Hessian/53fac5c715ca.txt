@@ -1,0 +1,15 @@
+# key: 53fac5c715ca
+# sink: JNDI
+# length: 9
+# IOCDs: 1312568848 1577985721
+# payload: shard-2/outputs/chains/1577985721-53fac5c715caexp
+# payload: shard-3/outputs/chains/1312568848-53fac5c715caexp
+<java.util.HashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.HashMap: java.lang.Object putVal(int,java.lang.Object,java.lang.Object,boolean,boolean)>
+<org.springframework.cglib.core.WeakCacheKey: boolean equals(java.lang.Object)>
+<org.springframework.aop.support.AbstractPointcutAdvisor: boolean equals(java.lang.Object)>
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor: org.aopalliance.aop.Advice getAdvice()>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object getBean(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object doGetSingleton(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiLocatorSupport: java.lang.Object lookup(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiTemplate: java.lang.Object lookup(java.lang.String,java.lang.Class)>

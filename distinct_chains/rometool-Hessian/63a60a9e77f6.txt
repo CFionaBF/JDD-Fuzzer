@@ -1,0 +1,14 @@
+# key: 63a60a9e77f6
+# sink: INVOKE
+# length: 9
+# IOCDs: 1526521545
+# payload: shard-3/outputs/chains/1526521545-63a60a9e77f6exp
+<java.util.HashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.HashMap: java.lang.Object putVal(int,java.lang.Object,java.lang.Object,boolean,boolean)>
+<sun.font.AttributeValues: boolean equals(java.lang.Object)>
+<sun.font.AttributeValues: boolean equals(sun.font.AttributeValues)>
+<sun.font.AttributeValues: boolean equals(java.lang.Object,java.lang.Object)>
+<com.sun.org.apache.xpath.internal.objects.XStringForFSB: boolean equals(java.lang.Object)>
+<com.rometools.rome.feed.impl.ToStringBean: java.lang.String toString()>
+<com.rometools.rome.feed.impl.ToStringBean: java.lang.String toString(java.lang.String)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

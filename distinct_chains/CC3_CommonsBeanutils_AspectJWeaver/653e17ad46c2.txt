@@ -1,0 +1,13 @@
+# key: 653e17ad46c2
+# sink: FILE
+# length: 8
+# IOCDs: 1985929470
+# payload: shard-3/outputs/chains/1985929470-653e17ad46c2exp
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+<java.util.Hashtable: void reconstitutionPut(java.util.Hashtable$Entry[],java.lang.Object,java.lang.Object)>
+<java.util.Hashtable: boolean equals(java.lang.Object)>
+<java.util.concurrent.ConcurrentHashMap: boolean equals(java.lang.Object)>
+<org.apache.commons.collections.map.LazyMap: java.lang.Object get(java.lang.Object)>
+<org.aspectj.weaver.tools.cache.SimpleCache$StoreableCachingMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<org.aspectj.weaver.tools.cache.SimpleCache$StoreableCachingMap: java.lang.String writeToPath(java.lang.String,byte[])>
+<java.io.FileOutputStream: void write(byte[])>

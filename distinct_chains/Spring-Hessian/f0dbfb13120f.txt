@@ -1,0 +1,16 @@
+# key: f0dbfb13120f
+# sink: JNDI
+# length: 11
+# IOCDs: 839305541
+# payload: shard-3/outputs/chains/839305541-f0dbfb13120fexp
+<java.util.concurrent.ConcurrentHashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.concurrent.ConcurrentHashMap: java.lang.Object putVal(java.lang.Object,java.lang.Object,boolean)>
+<org.springframework.cache.interceptor.SimpleKey: boolean equals(java.lang.Object)>
+<java.util.Arrays: boolean deepEquals(java.lang.Object[],java.lang.Object[])>
+<java.util.Arrays: boolean deepEquals0(java.lang.Object,java.lang.Object)>
+<org.springframework.aop.support.AbstractPointcutAdvisor: boolean equals(java.lang.Object)>
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor: org.aopalliance.aop.Advice getAdvice()>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object getBean(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object doGetSingleton(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiLocatorSupport: java.lang.Object lookup(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiTemplate: java.lang.Object lookup(java.lang.String,java.lang.Class)>

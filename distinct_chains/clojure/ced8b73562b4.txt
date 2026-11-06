@@ -1,0 +1,11 @@
+# key: ced8b73562b4
+# sink: CLOJURE
+# length: 6
+# IOCDs: 1979551611
+# payload: shard-3/outputs/chains/1979551611-ced8b73562b4exp
+<java.util.concurrent.ConcurrentHashMap: void readObject(java.io.ObjectInputStream)>
+<sun.swing.BakedArrayList: boolean equals(java.lang.Object)>
+<clojure.lang.ASeq: boolean equals(java.lang.Object)>
+<clojure.lang.Iterate: java.lang.Object first()>
+<clojure.main$eval_opt: java.lang.Object invoke(java.lang.Object)>
+<clojure.main$eval_opt: java.lang.Object invokeStatic(java.lang.Object)>

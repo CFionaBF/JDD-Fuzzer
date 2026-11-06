@@ -1,0 +1,14 @@
+# key: 9b143fe1d305
+# sink: INVOKE
+# length: 9
+# IOCDs: 1598432562
+# payload: shard-2/outputs/chains/1598432562-9b143fe1d305exp
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+<java.util.Hashtable: void reconstitutionPut(java.util.Hashtable$Entry[],java.lang.Object,java.lang.Object)>
+<java.util.Hashtable: boolean equals(java.lang.Object)>
+<com.sun.org.apache.xpath.internal.objects.XString: boolean equals(java.lang.Object)>
+<org.apache.commons.collections4.keyvalue.TiedMapEntry: java.lang.String toString()>
+<org.apache.commons.collections4.keyvalue.TiedMapEntry: java.lang.Object getValue()>
+<org.apache.commons.collections4.map.DefaultedMap: java.lang.Object get(java.lang.Object)>
+<org.apache.commons.collections4.functors.InvokerTransformer: java.lang.Object transform(java.lang.Object)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

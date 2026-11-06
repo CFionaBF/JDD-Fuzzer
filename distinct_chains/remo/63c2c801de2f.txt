@@ -1,0 +1,12 @@
+# key: 63c2c801de2f
+# sink: INVOKE
+# length: 7
+# IOCDs: 1729406814
+# payload: shard-0/outputs/chains/1729406814-63c2c801de2fexp
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+<java.util.Hashtable: void reconstitutionPut(java.util.Hashtable$Entry[],java.lang.Object,java.lang.Object)>
+<java.util.Hashtable: boolean equals(java.lang.Object)>
+<com.sun.org.apache.xpath.internal.objects.XStringForFSB: boolean equals(java.lang.Object)>
+<com.sun.syndication.feed.impl.ToStringBean: java.lang.String toString()>
+<com.sun.syndication.feed.impl.ToStringBean: java.lang.String toString(java.lang.String)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

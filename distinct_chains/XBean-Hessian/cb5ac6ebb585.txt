@@ -1,0 +1,15 @@
+# key: cb5ac6ebb585
+# sink: JNDI
+# length: 10
+# IOCDs: 804586924
+# payload: shard-2/outputs/chains/804586924-cb5ac6ebb585exp
+<java.util.HashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.HashMap: java.lang.Object putVal(int,java.lang.Object,java.lang.Object,boolean,boolean)>
+<sun.font.AttributeValues: boolean equals(java.lang.Object)>
+<sun.font.AttributeValues: boolean equals(sun.font.AttributeValues)>
+<sun.font.AttributeValues: boolean equals(java.lang.Object,java.lang.Object)>
+<javax.sound.sampled.AudioFileFormat$Type: boolean equals(java.lang.Object)>
+<javax.naming.Binding: java.lang.String toString()>
+<org.apache.xbean.naming.context.ContextUtil$ReadOnlyBinding: java.lang.Object getObject()>
+<org.apache.xbean.naming.context.ContextUtil: java.lang.Object resolve(java.lang.Object,java.lang.String,javax.naming.Name,javax.naming.Context)>
+<javax.naming.spi.NamingManager: java.lang.Object getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)>

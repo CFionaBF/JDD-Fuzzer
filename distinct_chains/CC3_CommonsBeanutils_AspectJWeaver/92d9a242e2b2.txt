@@ -1,0 +1,13 @@
+# key: 92d9a242e2b2
+# sink: FILE
+# length: 8
+# IOCDs: 304861655
+# payload: shard-0/outputs/chains/304861655-92d9a242e2b2exp
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+<java.util.Hashtable: void reconstitutionPut(java.util.Hashtable$Entry[],java.lang.Object,java.lang.Object)>
+<org.apache.commons.collections.keyvalue.TiedMapEntry: int hashCode()>
+<org.apache.commons.collections.keyvalue.TiedMapEntry: java.lang.Object getValue()>
+<org.apache.commons.collections.map.LazyMap: java.lang.Object get(java.lang.Object)>
+<org.aspectj.weaver.tools.cache.SimpleCache$StoreableCachingMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<org.aspectj.weaver.tools.cache.SimpleCache$StoreableCachingMap: java.lang.String writeToPath(java.lang.String,byte[])>
+<java.io.FileOutputStream: void write(byte[])>

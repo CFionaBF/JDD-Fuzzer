@@ -1,0 +1,11 @@
+# key: b132cc385c14
+# sink: CUSTOM
+# length: 6
+# IOCDs: 1217102922
+# payload: shard-0/outputs/chains/1217102922-b132cc385c14exp
+<javax.management.openmbean.OpenMBeanAttributeInfoSupport: java.lang.Object readResolve()>
+<javax.management.openmbean.OpenMBeanAttributeInfoSupport: javax.management.Descriptor makeDescriptor(javax.management.openmbean.OpenType,java.lang.Object,java.util.Set,java.lang.Comparable,java.lang.Comparable)>
+<com.sun.proxy.$Proxy: ? size(?)>
+<bsh.XThis$Handler: java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])>
+<bsh.XThis$Handler: java.lang.Object invokeImpl(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])>
+<bsh.This: java.lang.Object invokeMethod(java.lang.String,java.lang.Object[])>

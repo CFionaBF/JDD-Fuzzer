@@ -1,0 +1,11 @@
+# key: b2f50940cfcd
+# sink: INVOKE
+# length: 6
+# IOCDs: 57913875
+# payload: shard-1/outputs/chains/57913875-b2f50940cfcdexp
+<java.util.Hashtable: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.lang.invoke.MethodType$ConcurrentWeakInternSet$WeakEntry: boolean equals(java.lang.Object)>
+<javax.sound.sampled.AudioFileFormat$Type: boolean equals(java.lang.Object)>
+<com.rometools.rome.feed.impl.ToStringBean: java.lang.String toString()>
+<com.rometools.rome.feed.impl.ToStringBean: java.lang.String toString(java.lang.String)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

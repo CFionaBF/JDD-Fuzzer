@@ -1,0 +1,14 @@
+# key: f5bcce82f49b
+# sink: INVOKE
+# length: 9
+# IOCDs: 1522217690
+# payload: shard-2/outputs/chains/1522217690-f5bcce82f49bexp
+<java.util.HashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.HashMap: java.lang.Object putVal(int,java.lang.Object,java.lang.Object,boolean,boolean)>
+<sun.font.AttributeValues: boolean equals(java.lang.Object)>
+<sun.font.AttributeValues: boolean equals(sun.font.AttributeValues)>
+<sun.font.AttributeValues: boolean equals(java.lang.Object,java.lang.Object)>
+<javax.sound.sampled.AudioFormat$Encoding: boolean equals(java.lang.Object)>
+<com.rometools.rome.feed.impl.ToStringBean: java.lang.String toString()>
+<com.rometools.rome.feed.impl.ToStringBean: java.lang.String toString(java.lang.String)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

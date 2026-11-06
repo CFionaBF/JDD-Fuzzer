@@ -1,0 +1,13 @@
+# key: 930ebc423fd2
+# sink: JNDI
+# length: 8
+# IOCDs: 2070485347
+# payload: shard-1/outputs/chains/2070485347-930ebc423fd2exp
+<sun.rmi.server.UnicastRef2: void readExternal(java.io.ObjectInput)>
+<sun.rmi.transport.LiveRef: sun.rmi.transport.LiveRef read(java.io.ObjectInput,boolean)>
+<sun.rmi.transport.DGCClient: void registerRefs(sun.rmi.transport.Endpoint,java.util.List)>
+<sun.rmi.transport.DGCClient$EndpointEntry: boolean registerRefs(java.util.List)>
+<sun.rmi.transport.DGCClient$EndpointEntry: void makeDirtyCall(java.util.Set,long)>
+<sun.rmi.transport.DGCImpl_Stub: java.rmi.dgc.Lease dirty(java.rmi.server.ObjID[],long,java.rmi.dgc.Lease)>
+<sun.rmi.server.UnicastRef: java.rmi.server.RemoteCall newCall(java.rmi.server.RemoteObject,java.rmi.server.Operation[],int,long)>
+<sun.rmi.transport.LiveRef: sun.rmi.transport.Channel getChannel()>

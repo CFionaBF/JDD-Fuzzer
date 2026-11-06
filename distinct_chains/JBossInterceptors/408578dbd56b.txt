@@ -1,0 +1,11 @@
+# key: 408578dbd56b
+# sink: INVOKE
+# length: 5
+# IOCDs: 251990294 571143103
+# payload: shard-0/outputs/chains/251990294-408578dbd56bexp
+# payload: shard-1/outputs/chains/571143103-408578dbd56bexp
+<org.jboss.interceptor.proxy.InterceptorMethodHandler: void readObject(java.io.ObjectInputStream)>
+<org.jboss.interceptor.proxy.InterceptorMethodHandler: java.lang.Object executeInterception(java.lang.Object,java.lang.reflect.Method,java.lang.reflect.Method,java.lang.Object[],org.jboss.interceptor.spi.model.InterceptionType)>
+<org.jboss.interceptor.proxy.SimpleInterceptionChain: java.lang.Object invokeNextInterceptor(javax.interceptor.InvocationContext)>
+<org.jboss.interceptor.proxy.InterceptorInvocation$InterceptorMethodInvocation: java.lang.Object invoke(javax.interceptor.InvocationContext)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

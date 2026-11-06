@@ -1,0 +1,12 @@
+# key: 22343efa0ff6
+# sink: JNDI
+# length: 7
+# IOCDs: 2057050732
+# payload: shard-2/outputs/chains/2057050732-22343efa0ff6exp
+<java.util.HashMap: void readObject(java.io.ObjectInputStream)>
+<java.util.HashMap: int hash(java.lang.Object)>
+<java.net.URL: int hashCode()>
+<java.net.URLStreamHandler: int hashCode(java.net.URL)>
+<java.net.URLStreamHandler: java.net.InetAddress getHostAddress(java.net.URL)>
+<java.net.URL: java.net.InetAddress getHostAddress()>
+<java.net.InetAddress: java.net.InetAddress getByName(java.lang.String)>

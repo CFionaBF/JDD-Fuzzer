@@ -1,0 +1,16 @@
+# key: a0310ec2fe39
+# sink: JNDI
+# length: 10
+# IOCDs: 788050225 824167485
+# payload: shard-2/outputs/chains/824167485-a0310ec2fe39exp
+# payload: shard-3/outputs/chains/788050225-a0310ec2fe39exp
+<java.util.concurrent.ConcurrentHashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.concurrent.ConcurrentHashMap: java.lang.Object putVal(java.lang.Object,java.lang.Object,boolean)>
+<sun.security.tools.keytool.Pair: boolean equals(java.lang.Object)>
+<java.util.Objects: boolean equals(java.lang.Object,java.lang.Object)>
+<org.springframework.aop.support.AbstractPointcutAdvisor: boolean equals(java.lang.Object)>
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor: org.aopalliance.aop.Advice getAdvice()>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object getBean(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object doGetSingleton(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiLocatorSupport: java.lang.Object lookup(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiTemplate: java.lang.Object lookup(java.lang.String,java.lang.Class)>

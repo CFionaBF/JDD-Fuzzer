@@ -1,0 +1,16 @@
+# key: cbe49a3c7429
+# sink: CUSTOM
+# length: 11
+# IOCDs: 1817915310
+# payload: shard-1/outputs/chains/1817915310-cbe49a3c7429exp
+<javax.management.BadAttributeValueExpException: void readObject(java.io.ObjectInputStream)>
+<groovy.lang.Closure$WritableClosure: java.lang.String toString()>
+<groovy.lang.Closure$WritableClosure: java.io.Writer writeTo(java.io.Writer)>
+<groovy.lang.Closure: java.lang.Object call(java.lang.Object[])>
+<groovy.lang.MetaClassImpl: java.lang.Object invokeMethod(java.lang.Object,java.lang.String,java.lang.Object[])>
+<groovy.lang.MetaClassImpl: java.lang.Object invokeMethod(java.lang.Class,java.lang.Object,java.lang.String,java.lang.Object[],boolean,boolean)>
+<groovy.lang.MetaClassImpl: java.lang.Object invokeMethod(java.lang.Class,java.lang.Object,java.lang.String,java.lang.Object[],boolean,boolean)>
+<groovy.lang.MetaClassImpl: java.lang.Object invokePropertyOrMissing(java.lang.Object,java.lang.String,java.lang.Object[],boolean,boolean)>
+<groovy.lang.MetaBeanProperty: java.lang.Object getProperty(java.lang.Object)>
+<org.codehaus.groovy.reflection.CachedMethod: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

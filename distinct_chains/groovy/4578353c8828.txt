@@ -1,0 +1,19 @@
+# key: 4578353c8828
+# sink: CUSTOM
+# length: 13
+# IOCDs: 1054143135 2064099108
+# payload: shard-0/outputs/chains/2064099108-4578353c8828exp
+# payload: shard-1/outputs/chains/1054143135-4578353c8828exp
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+<java.util.Hashtable: void reconstitutionPut(java.util.Hashtable$Entry[],java.lang.Object,java.lang.Object)>
+<groovy.lang.GString: int hashCode()>
+<groovy.lang.GString: java.lang.String toString()>
+<groovy.lang.GString: java.io.Writer writeTo(java.io.Writer)>
+<groovy.lang.Closure: java.lang.Object call()>
+<groovy.lang.Closure: java.lang.Object call(java.lang.Object[])>
+<groovy.lang.MetaClassImpl: java.lang.Object invokeMethod(java.lang.Object,java.lang.String,java.lang.Object[])>
+<groovy.lang.MetaClassImpl: java.lang.Object invokeMethod(java.lang.Class,java.lang.Object,java.lang.String,java.lang.Object[],boolean,boolean)>
+<groovy.lang.MetaClassImpl: java.lang.Object invokeMethod(java.lang.Class,java.lang.Object,java.lang.String,java.lang.Object[],boolean,boolean)>
+<groovy.lang.MetaMethod: java.lang.Object doMethodInvoke(java.lang.Object,java.lang.Object[])>
+<org.codehaus.groovy.reflection.CachedMethod: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

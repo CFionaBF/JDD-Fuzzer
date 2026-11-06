@@ -1,0 +1,9 @@
+# key: 3f35eb4907b3
+# sink: INVOKE
+# length: 4
+# IOCDs: 47846622
+# payload: shard-1/outputs/chains/47846622-3f35eb4907b3exp
+<javax.management.BadAttributeValueExpException: void readObject(java.io.ObjectInputStream)>
+<com.sun.syndication.feed.impl.ToStringBean: java.lang.String toString()>
+<com.sun.syndication.feed.impl.ToStringBean: java.lang.String toString(java.lang.String)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

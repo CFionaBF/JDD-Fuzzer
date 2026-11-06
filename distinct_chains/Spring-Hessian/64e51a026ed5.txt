@@ -1,0 +1,14 @@
+# key: 64e51a026ed5
+# sink: JNDI
+# length: 8
+# IOCDs: 102209567 342747131
+# payload: shard-1/outputs/chains/102209567-64e51a026ed5exp
+# payload: shard-2/outputs/chains/342747131-64e51a026ed5exp
+<java.util.Hashtable: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.AbstractList: boolean equals(java.lang.Object)>
+<org.springframework.aop.support.AbstractPointcutAdvisor: boolean equals(java.lang.Object)>
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor: org.aopalliance.aop.Advice getAdvice()>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object getBean(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object doGetSingleton(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiLocatorSupport: java.lang.Object lookup(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiTemplate: java.lang.Object lookup(java.lang.String,java.lang.Class)>

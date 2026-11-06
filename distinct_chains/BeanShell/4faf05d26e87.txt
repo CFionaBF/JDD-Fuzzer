@@ -1,0 +1,10 @@
+# key: 4faf05d26e87
+# sink: CUSTOM
+# length: 5
+# IOCDs: 1979244567
+# payload: shard-1/outputs/chains/1979244567-4faf05d26e87exp
+<java.util.Collections$SetFromMap: void readObject(java.io.ObjectInputStream)>
+<com.sun.proxy.$Proxy: ? keySet(?)>
+<bsh.XThis$Handler: java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])>
+<bsh.XThis$Handler: java.lang.Object invokeImpl(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])>
+<bsh.This: java.lang.Object invokeMethod(java.lang.String,java.lang.Object[])>

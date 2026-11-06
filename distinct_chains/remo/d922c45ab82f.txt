@@ -1,0 +1,11 @@
+# key: d922c45ab82f
+# sink: INVOKE
+# length: 6
+# IOCDs: 164867061
+# payload: shard-3/outputs/chains/164867061-d922c45ab82fexp
+<java.util.concurrent.ConcurrentHashMap: void readObject(java.io.ObjectInputStream)>
+<sun.swing.BakedArrayList: boolean equals(java.lang.Object)>
+<com.sun.org.apache.xpath.internal.objects.XStringForFSB: boolean equals(java.lang.Object)>
+<com.sun.syndication.feed.impl.ToStringBean: java.lang.String toString()>
+<com.sun.syndication.feed.impl.ToStringBean: java.lang.String toString(java.lang.String)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

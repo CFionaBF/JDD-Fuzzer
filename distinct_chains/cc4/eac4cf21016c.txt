@@ -1,0 +1,13 @@
+# key: eac4cf21016c
+# sink: INVOKE
+# length: 8
+# IOCDs: 1350312792
+# payload: shard-1/outputs/chains/1350312792-eac4cf21016cexp
+<java.util.concurrent.ConcurrentHashMap: void readObject(java.io.ObjectInputStream)>
+<org.apache.commons.collections4.keyvalue.TiedMapEntry: int hashCode()>
+<org.apache.commons.collections4.keyvalue.TiedMapEntry: java.lang.Object getValue()>
+<org.apache.commons.collections4.map.LazyMap: java.lang.Object get(java.lang.Object)>
+<org.apache.commons.collections4.map.TransformedMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<org.apache.commons.collections4.map.TransformedMap: java.lang.Object transformValue(java.lang.Object)>
+<org.apache.commons.collections4.functors.InvokerTransformer: java.lang.Object transform(java.lang.Object)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

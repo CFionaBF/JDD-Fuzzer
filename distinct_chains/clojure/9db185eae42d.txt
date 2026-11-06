@@ -1,0 +1,11 @@
+# key: 9db185eae42d
+# sink: CLOJURE
+# length: 6
+# IOCDs: 565791036
+# payload: shard-2/outputs/chains/565791036-9db185eae42dexp
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+<java.util.Hashtable: void reconstitutionPut(java.util.Hashtable$Entry[],java.lang.Object,java.lang.Object)>
+<clojure.core.proxy$clojure.lang.APersistentMap$ff19274a: int hashCode()>
+<clojure.core$comp$fn__4727: java.lang.Object invoke(java.lang.Object)>
+<clojure.main$eval_opt: java.lang.Object invoke(java.lang.Object)>
+<clojure.main$eval_opt: java.lang.Object invokeStatic(java.lang.Object)>

@@ -1,0 +1,16 @@
+# key: a88dd9b7ed7b
+# sink: INVOKE
+# length: 11
+# IOCDs: 1052388692
+# payload: shard-0/outputs/chains/1052388692-a88dd9b7ed7bexp
+<java.util.HashMap: void readObject(java.io.ObjectInputStream)>
+<java.util.HashMap: int hash(java.lang.Object)>
+<org.hibernate.engine.spi.TypedValue: int hashCode()>
+<org.hibernate.internal.util.ValueHolder: java.lang.Object getValue()>
+<org.hibernate.engine.spi.TypedValue$1: java.lang.Object initialize()>
+<org.hibernate.engine.spi.TypedValue$1: java.lang.Integer initialize()>
+<org.hibernate.type.ComponentType: int getHashCode(java.lang.Object)>
+<org.hibernate.type.ComponentType: java.lang.Object getPropertyValue(java.lang.Object,int)>
+<org.hibernate.tuple.component.AbstractComponentTuplizer: java.lang.Object getPropertyValue(java.lang.Object,int)>
+<org.hibernate.property.BasicPropertyAccessor$BasicGetter: java.lang.Object get(java.lang.Object)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

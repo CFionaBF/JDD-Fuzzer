@@ -1,0 +1,9 @@
+# key: 27a59cd83e92
+# sink: JNDI
+# length: 4
+# IOCDs: 20151984
+# payload: shard-1/outputs/chains/20151984-27a59cd83e92exp
+<javax.management.remote.JMXServiceURL: void readObject(java.io.ObjectInputStream)>
+<javax.management.remote.JMXServiceURL: void validate(java.lang.String,java.lang.String,int,java.lang.String)>
+<javax.management.remote.JMXServiceURL: void validateHost(java.lang.String,int)>
+<java.net.InetAddress: java.net.InetAddress getByName(java.lang.String)>

@@ -1,0 +1,12 @@
+# key: 9a008e278757
+# sink: JNDI
+# length: 7
+# IOCDs: 793972543
+# payload: shard-3/outputs/chains/793972543-9a008e278757exp
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+<java.util.Hashtable: void reconstitutionPut(java.util.Hashtable$Entry[],java.lang.Object,java.lang.Object)>
+<java.net.URL: int hashCode()>
+<java.net.URLStreamHandler: int hashCode(java.net.URL)>
+<java.net.URLStreamHandler: java.net.InetAddress getHostAddress(java.net.URL)>
+<java.net.URL: java.net.InetAddress getHostAddress()>
+<java.net.InetAddress: java.net.InetAddress getByName(java.lang.String)>

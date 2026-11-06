@@ -1,0 +1,11 @@
+# key: dde55d9e1fa4
+# sink: INVOKE
+# length: 6
+# IOCDs: 241125268
+# payload: shard-1/outputs/chains/241125268-dde55d9e1fa4exp
+<javax.management.BadAttributeValueExpException: void readObject(java.io.ObjectInputStream)>
+<org.apache.commons.collections4.keyvalue.TiedMapEntry: java.lang.String toString()>
+<org.apache.commons.collections4.keyvalue.TiedMapEntry: java.lang.Object getValue()>
+<org.apache.commons.collections4.map.DefaultedMap: java.lang.Object get(java.lang.Object)>
+<org.apache.commons.collections4.functors.InvokerTransformer: java.lang.Object transform(java.lang.Object)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

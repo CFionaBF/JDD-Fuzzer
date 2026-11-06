@@ -1,0 +1,14 @@
+# key: 7b923864bc9b
+# sink: JNDI
+# length: 8
+# IOCDs: 57821392 898492512
+# payload: shard-1/outputs/chains/898492512-7b923864bc9bexp
+# payload: shard-2/outputs/chains/57821392-7b923864bc9bexp
+<java.util.Hashtable: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<org.springframework.cglib.core.WeakCacheKey: boolean equals(java.lang.Object)>
+<org.springframework.aop.support.AbstractPointcutAdvisor: boolean equals(java.lang.Object)>
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor: org.aopalliance.aop.Advice getAdvice()>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object getBean(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object doGetSingleton(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiLocatorSupport: java.lang.Object lookup(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiTemplate: java.lang.Object lookup(java.lang.String,java.lang.Class)>

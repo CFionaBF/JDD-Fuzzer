@@ -1,0 +1,14 @@
+# key: 2438b7b8b312
+# sink: INVOKE
+# length: 9
+# IOCDs: 61773728
+# payload: shard-3/outputs/chains/61773728-2438b7b8b312exp
+<java.util.HashMap: void readObject(java.io.ObjectInputStream)>
+<java.util.HashMap: java.lang.Object putVal(int,java.lang.Object,java.lang.Object,boolean,boolean)>
+<sun.swing.BakedArrayList: boolean equals(java.lang.Object)>
+<com.sun.org.apache.xpath.internal.objects.XString: boolean equals(java.lang.Object)>
+<org.apache.commons.collections4.keyvalue.TiedMapEntry: java.lang.String toString()>
+<org.apache.commons.collections4.keyvalue.TiedMapEntry: java.lang.Object getValue()>
+<org.apache.commons.collections4.map.DefaultedMap: java.lang.Object get(java.lang.Object)>
+<org.apache.commons.collections4.functors.InvokerTransformer: java.lang.Object transform(java.lang.Object)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

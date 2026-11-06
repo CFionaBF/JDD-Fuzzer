@@ -1,0 +1,5 @@
+# Jar sets of the applications that the end-to-end run (e2e/) analyses itself with JDD, i.e. that have no IOCD
+# directory in the dataset. Same format as apps.txt; build.sh reads both files, fetch_data.sh only apps.txt.
+# A dependency written with a trailing ! is taken alone, without its transitive dependencies.
+# Format: <app> <groupId:artifactId:version>[!] [...]   # source of the version
+MozillaRhino-fuzz                  rhino:js:1.7R2!  org.apache.xmlbeans:xmlbeans:2.6.0!    # ysoserial MozillaRhino1/2 (js-1.7R2.jar + xmlbeans-2.6.0.jar)

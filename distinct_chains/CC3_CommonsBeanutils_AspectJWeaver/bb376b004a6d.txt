@@ -1,0 +1,14 @@
+# key: bb376b004a6d
+# sink: FILE
+# length: 9
+# IOCDs: 1181878291
+# payload: shard-0/outputs/chains/1181878291-bb376b004a6dexp
+<java.util.HashMap: void readObject(java.io.ObjectInputStream)>
+<java.util.HashMap: java.lang.Object putVal(int,java.lang.Object,java.lang.Object,boolean,boolean)>
+<org.apache.commons.collections.keyvalue.MultiKey: boolean equals(java.lang.Object)>
+<java.util.Arrays: boolean equals(java.lang.Object[],java.lang.Object[])>
+<java.util.concurrent.ConcurrentHashMap: boolean equals(java.lang.Object)>
+<org.apache.commons.collections.map.LazyMap: java.lang.Object get(java.lang.Object)>
+<org.aspectj.weaver.tools.cache.SimpleCache$StoreableCachingMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<org.aspectj.weaver.tools.cache.SimpleCache$StoreableCachingMap: java.lang.String writeToPath(java.lang.String,byte[])>
+<java.io.FileOutputStream: void write(byte[])>

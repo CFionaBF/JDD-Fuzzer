@@ -1,0 +1,16 @@
+# key: 978163512dde
+# sink: JNDI
+# length: 10
+# IOCDs: 515859541 979541134
+# payload: shard-2/outputs/chains/979541134-978163512ddeexp
+# payload: shard-3/outputs/chains/515859541-978163512ddeexp
+<java.util.HashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.HashMap: java.lang.Object putVal(int,java.lang.Object,java.lang.Object,boolean,boolean)>
+<javax.sql.rowset.serial.SerialStruct: boolean equals(java.lang.Object)>
+<java.util.Arrays: boolean equals(java.lang.Object[],java.lang.Object[])>
+<org.springframework.aop.support.AbstractPointcutAdvisor: boolean equals(java.lang.Object)>
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor: org.aopalliance.aop.Advice getAdvice()>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object getBean(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object doGetSingleton(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiLocatorSupport: java.lang.Object lookup(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiTemplate: java.lang.Object lookup(java.lang.String,java.lang.Class)>

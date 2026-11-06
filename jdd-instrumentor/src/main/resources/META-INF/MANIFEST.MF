@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: cn.edu.fudan.agent.AegAgent
+Agent-Class: cn.edu.fudan.agent.AegAgent
+Boot-Class-Path: jdd-instrumentor-1.0-SNAPSHOT.jar

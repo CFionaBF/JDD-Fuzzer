@@ -1,0 +1,16 @@
+# key: 8eb8f230a9bb
+# sink: JNDI
+# length: 10
+# IOCDs: 1228699734 1421245485
+# payload: shard-1/outputs/chains/1421245485-8eb8f230a9bbexp
+# payload: shard-2/outputs/chains/1228699734-8eb8f230a9bbexp
+<java.util.concurrent.ConcurrentHashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.concurrent.ConcurrentHashMap: java.lang.Object putVal(java.lang.Object,java.lang.Object,boolean)>
+<java.util.TreeMap$Entry: boolean equals(java.lang.Object)>
+<java.util.TreeMap: boolean valEquals(java.lang.Object,java.lang.Object)>
+<org.springframework.aop.support.AbstractPointcutAdvisor: boolean equals(java.lang.Object)>
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor: org.aopalliance.aop.Advice getAdvice()>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object getBean(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object doGetSingleton(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiLocatorSupport: java.lang.Object lookup(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiTemplate: java.lang.Object lookup(java.lang.String,java.lang.Class)>

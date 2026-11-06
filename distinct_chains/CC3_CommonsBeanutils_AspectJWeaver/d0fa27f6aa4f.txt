@@ -1,0 +1,12 @@
+# key: d0fa27f6aa4f
+# sink: FILE
+# length: 7
+# IOCDs: 630331039
+# payload: shard-2/outputs/chains/630331039-d0fa27f6aa4fexp
+<javax.management.BadAttributeValueExpException: void readObject(java.io.ObjectInputStream)>
+<org.apache.commons.collections.keyvalue.TiedMapEntry: java.lang.String toString()>
+<org.apache.commons.collections.keyvalue.TiedMapEntry: java.lang.Object getValue()>
+<org.apache.commons.collections.map.LazyMap: java.lang.Object get(java.lang.Object)>
+<org.aspectj.weaver.tools.cache.SimpleCache$StoreableCachingMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<org.aspectj.weaver.tools.cache.SimpleCache$StoreableCachingMap: java.lang.String writeToPath(java.lang.String,byte[])>
+<java.io.FileOutputStream: void write(byte[])>

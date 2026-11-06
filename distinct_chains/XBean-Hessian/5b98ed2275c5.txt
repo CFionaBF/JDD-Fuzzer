@@ -1,0 +1,12 @@
+# key: 5b98ed2275c5
+# sink: JNDI
+# length: 7
+# IOCDs: 258517586
+# payload: shard-0/outputs/chains/258517586-5b98ed2275c5exp
+<java.util.Hashtable: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.lang.invoke.MethodType$ConcurrentWeakInternSet$WeakEntry: boolean equals(java.lang.Object)>
+<javax.sound.sampled.AudioFormat$Encoding: boolean equals(java.lang.Object)>
+<javax.naming.Binding: java.lang.String toString()>
+<org.apache.xbean.naming.context.ContextUtil$ReadOnlyBinding: java.lang.Object getObject()>
+<org.apache.xbean.naming.context.ContextUtil: java.lang.Object resolve(java.lang.Object,java.lang.String,javax.naming.Name,javax.naming.Context)>
+<javax.naming.spi.NamingManager: java.lang.Object getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)>

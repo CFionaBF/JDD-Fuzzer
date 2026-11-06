@@ -1,0 +1,13 @@
+# key: ce2a773ec297
+# sink: JNDI
+# length: 8
+# IOCDs: 1592399499
+# payload: shard-3/outputs/chains/1592399499-ce2a773ec297exp
+<java.util.concurrent.ConcurrentHashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.concurrent.ConcurrentHashMap: java.lang.Object putVal(java.lang.Object,java.lang.Object,boolean)>
+<org.springframework.aop.target.HotSwappableTargetSource: boolean equals(java.lang.Object)>
+<com.sun.org.apache.xpath.internal.objects.XStringForFSB: boolean equals(java.lang.Object)>
+<javax.naming.Binding: java.lang.String toString()>
+<org.apache.xbean.naming.context.ContextUtil$ReadOnlyBinding: java.lang.Object getObject()>
+<org.apache.xbean.naming.context.ContextUtil: java.lang.Object resolve(java.lang.Object,java.lang.String,javax.naming.Name,javax.naming.Context)>
+<javax.naming.spi.NamingManager: java.lang.Object getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)>

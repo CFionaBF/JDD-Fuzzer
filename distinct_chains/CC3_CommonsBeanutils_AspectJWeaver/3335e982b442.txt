@@ -1,0 +1,15 @@
+# key: 3335e982b442
+# sink: INVOKE
+# length: 10
+# IOCDs: 334024272
+# payload: shard-2/outputs/chains/334024272-3335e982b442exp
+<java.util.concurrent.ConcurrentHashMap: void readObject(java.io.ObjectInputStream)>
+<java.util.AbstractMap$SimpleImmutableEntry: boolean equals(java.lang.Object)>
+<java.util.AbstractMap: boolean access$000(java.lang.Object,java.lang.Object)>
+<java.util.AbstractMap: boolean eq(java.lang.Object,java.lang.Object)>
+<com.sun.org.apache.xpath.internal.objects.XStringForFSB: boolean equals(java.lang.Object)>
+<org.apache.commons.collections.keyvalue.TiedMapEntry: java.lang.String toString()>
+<org.apache.commons.collections.keyvalue.TiedMapEntry: java.lang.Object getValue()>
+<org.apache.commons.collections.map.DefaultedMap: java.lang.Object get(java.lang.Object)>
+<org.apache.commons.collections.functors.InvokerTransformer: java.lang.Object transform(java.lang.Object)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

@@ -1,0 +1,13 @@
+# key: 4d545112b5cc
+# sink: INVOKE
+# length: 8
+# IOCDs: 2019189612
+# payload: shard-0/outputs/chains/2019189612-4d545112b5ccexp
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+<java.util.Hashtable: void reconstitutionPut(java.util.Hashtable$Entry[],java.lang.Object,java.lang.Object)>
+<com.sun.syndication.feed.synd.SyndLinkImpl: int hashCode()>
+<com.sun.syndication.feed.impl.ObjectBean: int hashCode()>
+<com.sun.syndication.feed.impl.EqualsBean: int beanHashCode()>
+<com.sun.syndication.feed.impl.ToStringBean: java.lang.String toString()>
+<com.sun.syndication.feed.impl.ToStringBean: java.lang.String toString(java.lang.String)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

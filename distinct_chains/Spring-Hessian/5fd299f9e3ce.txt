@@ -1,0 +1,16 @@
+# key: 5fd299f9e3ce
+# sink: JNDI
+# length: 10
+# IOCDs: 1280689054 1840646181
+# payload: shard-1/outputs/chains/1280689054-5fd299f9e3ceexp
+# payload: shard-3/outputs/chains/1840646181-5fd299f9e3ceexp
+<java.util.HashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.HashMap: java.lang.Object putVal(int,java.lang.Object,java.lang.Object,boolean,boolean)>
+<sun.security.tools.keytool.Pair: boolean equals(java.lang.Object)>
+<java.util.Objects: boolean equals(java.lang.Object,java.lang.Object)>
+<org.springframework.aop.support.AbstractPointcutAdvisor: boolean equals(java.lang.Object)>
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor: org.aopalliance.aop.Advice getAdvice()>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object getBean(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object doGetSingleton(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiLocatorSupport: java.lang.Object lookup(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiTemplate: java.lang.Object lookup(java.lang.String,java.lang.Class)>

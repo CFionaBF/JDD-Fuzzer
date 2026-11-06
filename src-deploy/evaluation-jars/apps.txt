@@ -1,0 +1,23 @@
+# Direct dependencies of each evaluation application (directory names follow
+# JDD/IOCDDatasets/detected/). Transitive compile/runtime deps are resolved by Maven.
+# Format: <app> <groupId:artifactId:version> [...]   # source of the version
+BeanShell                          org.beanshell:bsh:2.0b5    # ysoserial
+CC3_CommonsBeanutils_AspectJWeaver commons-collections:commons-collections:3.2.1 commons-beanutils:commons-beanutils:1.9.2 org.aspectj:aspectjweaver:1.9.5 commons-logging:commons-logging:1.2    # jdd-fuzzer's test libraries for cc3_aws (formerly docker/libs-for-test/cc3_aws); line numbers single out cc 3.2.1 + beanutils 1.9.2 (ysoserial pins cc 3.1)
+Fileupload                         commons-fileupload:commons-fileupload:1.3 commons-io:commons-io:2.6    # ysoserial pom; line numbers reject the @Dependencies pair 1.3.1 + io 2.4
+JBossInterceptors                  org.jboss.interceptor:jboss-interceptor-core:2.0.0.Final org.jboss.interceptor:jboss-interceptor-spi:2.0.0.Final javassist:javassist:3.12.0.GA javax.enterprise:cdi-api:1.0-SP1 javax.interceptor:javax.interceptor-api:3.1 org.slf4j:slf4j-api:1.7.21 org.slf4j:slf4j-jdk14:1.7.21    # ysoserial
+JDK                                # JDK classes only: empty jar dir (runtime JDK = Oracle 8u361, see src-deploy/env.sh)
+Myface                             org.apache.myfaces.core:myfaces-impl:2.2.9 javax.servlet:javax.servlet-api:3.1.0 javax.el:javax.el-api:3.0.0    # ysoserial
+Resin-Hessian                      com.caucho:quercus:4.0.45    # marshalsec
+Spring-Hessian[SpringAbstractBeanFactoryPointcutAdvisor1+SpringPartiallyComparableAdvisorHolder1] org.springframework:spring-beans:4.3.7.RELEASE org.springframework:spring-context:4.3.7.RELEASE org.springframework:spring-aop:4.3.7.RELEASE org.aspectj:aspectjweaver:1.8.6    # marshalsec; line numbers single out spring 4.3.7 (4.1.4/4.3.0/4.3.30 miss); aspectjweaver version not observable
+Wicket                             org.apache.wicket:wicket-util:6.23.0 org.slf4j:slf4j-api:1.7.21    # ysoserial
+XBean-Hessian                      org.apache.xbean:xbean-naming:4.5 org.springframework:spring-aop:4.3.7.RELEASE    # marshalsec
+cc4                                org.apache.commons:commons-collections4:4.0    # ysoserial
+click1                             org.apache.click:click-nodeps:2.3.0 javax.servlet:javax.servlet-api:3.1.0    # ysoserial
+clojure                            org.clojure:clojure:1.8.0    # ysoserial
+fastjson2-Hessian                  com.alibaba.fastjson2:fastjson2:2.0.47    # inferred: IOCD signatures + IfStmtRecord line numbers match 2.0.47-2.0.50
+groovy                             org.codehaus.groovy:groovy:2.3.9    # ysoserial; line numbers reject 2.4.9
+hibernate                          org.hibernate:hibernate-core:4.3.11.Final    # IOCD-aligned: only full match among all 3.6/4.x/5.0 releases (4.3.5-4.3.10 lack AbstractPersistentCollection.generateUnexpectedSessionStateMessage)
+javassistWeld                      org.jboss.weld:weld-core:1.1.33.Final javassist:javassist:3.12.0.GA javax.enterprise:cdi-api:1.0-SP1 javax.interceptor:javax.interceptor-api:3.1 org.slf4j:slf4j-api:1.7.21 org.slf4j:slf4j-jdk14:1.7.21    # ysoserial
+remo                               rome:rome:1.0    # ysoserial
+rometool-Hessian                   com.rometools:rome:1.7.0    # marshalsec
+vaadin                             com.vaadin:vaadin-server:7.7.14    # ysoserial

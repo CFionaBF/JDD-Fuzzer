@@ -1,0 +1,14 @@
+# key: e9e153790beb
+# sink: INVOKE
+# length: 9
+# IOCDs: 1514096542
+# payload: shard-3/outputs/chains/1514096542-e9e153790bebexp
+<java.util.Hashtable: void readObject(java.io.ObjectInputStream)>
+<java.util.Hashtable: void reconstitutionPut(java.util.Hashtable$Entry[],java.lang.Object,java.lang.Object)>
+<org.apache.commons.collections.keyvalue.TiedMapEntry: int hashCode()>
+<org.apache.commons.collections.keyvalue.TiedMapEntry: java.lang.Object getValue()>
+<org.apache.commons.collections.map.LazyMap: java.lang.Object get(java.lang.Object)>
+<org.apache.commons.collections.map.TransformedMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<org.apache.commons.collections.map.TransformedMap: java.lang.Object transformKey(java.lang.Object)>
+<org.apache.commons.collections.functors.InvokerTransformer: java.lang.Object transform(java.lang.Object)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

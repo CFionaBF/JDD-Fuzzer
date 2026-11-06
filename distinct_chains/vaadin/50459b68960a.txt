@@ -1,0 +1,10 @@
+# key: 50459b68960a
+# sink: INVOKE
+# length: 5
+# IOCDs: 1895243543
+# payload: shard-3/outputs/chains/1895243543-50459b68960aexp
+<javax.management.BadAttributeValueExpException: void readObject(java.io.ObjectInputStream)>
+<com.vaadin.data.util.AbstractProperty: java.lang.String toString()>
+<com.vaadin.data.util.LegacyPropertyHelper: java.lang.String legacyPropertyToString(com.vaadin.data.Property)>
+<com.vaadin.data.util.NestedMethodProperty: java.lang.Object getValue()>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

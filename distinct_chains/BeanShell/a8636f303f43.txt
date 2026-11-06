@@ -1,0 +1,13 @@
+# key: a8636f303f43
+# sink: CUSTOM
+# length: 8
+# IOCDs: 2031661556
+# payload: shard-2/outputs/chains/2031661556-a8636f303f43exp
+<java.util.PriorityQueue: void readObject(java.io.ObjectInputStream)>
+<java.util.PriorityQueue: void heapify()>
+<java.util.PriorityQueue: void siftDown(int,java.lang.Object)>
+<java.util.PriorityQueue: void siftDownUsingComparator(int,java.lang.Object)>
+<com.sun.proxy.$Proxy: ? compare(?)>
+<bsh.XThis$Handler: java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])>
+<bsh.XThis$Handler: java.lang.Object invokeImpl(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])>
+<bsh.This: java.lang.Object invokeMethod(java.lang.String,java.lang.Object[])>

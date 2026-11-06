@@ -1,0 +1,13 @@
+# key: 20419869d4a5
+# sink: INVOKE
+# length: 8
+# IOCDs: 438089218
+# payload: shard-0/outputs/chains/438089218-20419869d4a5exp
+<java.util.concurrent.ConcurrentHashMap: void readObject(java.io.ObjectInputStream)>
+<java.util.AbstractMap$SimpleImmutableEntry: boolean equals(java.lang.Object)>
+<java.util.AbstractMap: boolean access$000(java.lang.Object,java.lang.Object)>
+<java.util.AbstractMap: boolean eq(java.lang.Object,java.lang.Object)>
+<com.sun.org.apache.xpath.internal.objects.XString: boolean equals(java.lang.Object)>
+<com.sun.syndication.feed.impl.ToStringBean: java.lang.String toString()>
+<com.sun.syndication.feed.impl.ToStringBean: java.lang.String toString(java.lang.String)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

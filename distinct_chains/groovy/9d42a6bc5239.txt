@@ -1,0 +1,19 @@
+# key: 9d42a6bc5239
+# sink: CUSTOM
+# length: 13
+# IOCDs: 1032423193 262750774
+# payload: shard-0/outputs/chains/1032423193-9d42a6bc5239exp
+# payload: shard-2/outputs/chains/262750774-9d42a6bc5239exp
+<java.util.concurrent.ConcurrentHashMap: void readObject(java.io.ObjectInputStream)>
+<sun.swing.BakedArrayList: boolean equals(java.lang.Object)>
+<com.sun.org.apache.xpath.internal.objects.XString: boolean equals(java.lang.Object)>
+<groovy.lang.GString: java.lang.String toString()>
+<groovy.lang.GString: java.io.Writer writeTo(java.io.Writer)>
+<groovy.lang.Closure: java.lang.Object call()>
+<groovy.lang.Closure: java.lang.Object call(java.lang.Object[])>
+<groovy.lang.MetaClassImpl: java.lang.Object invokeMethod(java.lang.Object,java.lang.String,java.lang.Object[])>
+<groovy.lang.MetaClassImpl: java.lang.Object invokeMethod(java.lang.Class,java.lang.Object,java.lang.String,java.lang.Object[],boolean,boolean)>
+<groovy.lang.MetaClassImpl: java.lang.Object invokeMethod(java.lang.Class,java.lang.Object,java.lang.String,java.lang.Object[],boolean,boolean)>
+<groovy.lang.MetaMethod: java.lang.Object doMethodInvoke(java.lang.Object,java.lang.Object[])>
+<org.codehaus.groovy.reflection.CachedMethod: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

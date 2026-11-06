@@ -1,0 +1,11 @@
+# key: 244e6533334f
+# sink: JNDI
+# length: 6
+# IOCDs: 1610178931
+# payload: shard-0/outputs/chains/1610178931-244e6533334fexp
+<java.util.concurrent.ConcurrentHashMap: void readObject(java.io.ObjectInputStream)>
+<java.net.URL: int hashCode()>
+<java.net.URLStreamHandler: int hashCode(java.net.URL)>
+<java.net.URLStreamHandler: java.net.InetAddress getHostAddress(java.net.URL)>
+<java.net.URL: java.net.InetAddress getHostAddress()>
+<java.net.InetAddress: java.net.InetAddress getByName(java.lang.String)>

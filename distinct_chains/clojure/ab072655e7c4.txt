@@ -1,0 +1,10 @@
+# key: ab072655e7c4
+# sink: CLOJURE
+# length: 5
+# IOCDs: 1542674177
+# payload: shard-1/outputs/chains/1542674177-ab072655e7c4exp
+<java.util.concurrent.ConcurrentHashMap: void readObject(java.io.ObjectInputStream)>
+<clojure.inspector.proxy$javax.swing.table.AbstractTableModel$ff19274a: int hashCode()>
+<clojure.core$comp$fn__4727: java.lang.Object invoke(java.lang.Object)>
+<clojure.main$eval_opt: java.lang.Object invoke(java.lang.Object)>
+<clojure.main$eval_opt: java.lang.Object invokeStatic(java.lang.Object)>

@@ -1,0 +1,12 @@
+# key: 524957a33fe3
+# sink: INVOKE
+# length: 7
+# IOCDs: 1564460415
+# payload: shard-0/outputs/chains/1564460415-524957a33fe3exp
+<java.util.HashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.HashMap: java.lang.Object putVal(int,java.lang.Object,java.lang.Object,boolean,boolean)>
+<java.lang.invoke.MethodType$ConcurrentWeakInternSet$WeakEntry: boolean equals(java.lang.Object)>
+<com.sun.org.apache.xpath.internal.objects.XString: boolean equals(java.lang.Object)>
+<com.rometools.rome.feed.impl.ToStringBean: java.lang.String toString()>
+<com.rometools.rome.feed.impl.ToStringBean: java.lang.String toString(java.lang.String)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

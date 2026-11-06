@@ -1,0 +1,14 @@
+# key: a9a3113418b8
+# sink: INVOKE
+# length: 9
+# IOCDs: 1791635820
+# payload: shard-3/outputs/chains/1791635820-a9a3113418b8exp
+<java.util.concurrent.ConcurrentHashMap: void readObject(java.io.ObjectInputStream)>
+<org.apache.commons.collections4.keyvalue.TiedMapEntry: int hashCode()>
+<org.apache.commons.collections4.keyvalue.TiedMapEntry: java.lang.Object getValue()>
+<org.apache.commons.collections4.map.LazyMap: java.lang.Object get(java.lang.Object)>
+<java.util.TreeMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.TreeMap: int compare(java.lang.Object,java.lang.Object)>
+<org.apache.commons.collections4.comparators.TransformingComparator: int compare(java.lang.Object,java.lang.Object)>
+<org.apache.commons.collections4.functors.InvokerTransformer: java.lang.Object transform(java.lang.Object)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

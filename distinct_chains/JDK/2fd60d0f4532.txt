@@ -1,0 +1,11 @@
+# key: 2fd60d0f4532
+# sink: JNDI
+# length: 6
+# IOCDs: 1614394213
+# payload: shard-0/outputs/chains/1614394213-2fd60d0f4532exp
+<java.rmi.server.UnicastRemoteObject: void readObject(java.io.ObjectInputStream)>
+<java.rmi.server.UnicastRemoteObject: void reexport()>
+<java.rmi.server.UnicastRemoteObject: java.rmi.Remote exportObject(java.rmi.Remote,int)>
+<java.rmi.server.UnicastRemoteObject: java.rmi.Remote exportObject(java.rmi.Remote,sun.rmi.server.UnicastServerRef)>
+<sun.rmi.server.UnicastServerRef: java.rmi.Remote exportObject(java.rmi.Remote,java.lang.Object,boolean)>
+<sun.rmi.transport.LiveRef: void exportObject(sun.rmi.transport.Target)>

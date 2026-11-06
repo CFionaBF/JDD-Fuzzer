@@ -1,0 +1,14 @@
+# key: 3b5e5639b348
+# sink: INVOKE
+# length: 9
+# IOCDs: 484532390
+# payload: shard-3/outputs/chains/484532390-3b5e5639b348exp
+<java.util.concurrent.ConcurrentHashMap: void readObject(java.io.ObjectInputStream)>
+<org.apache.commons.collections.keyvalue.MultiKey: boolean equals(java.lang.Object)>
+<java.util.Arrays: boolean equals(java.lang.Object[],java.lang.Object[])>
+<java.util.concurrent.ConcurrentHashMap: boolean equals(java.lang.Object)>
+<org.apache.commons.collections.map.LazyMap: java.lang.Object get(java.lang.Object)>
+<org.apache.commons.collections.map.TransformedMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<org.apache.commons.collections.map.TransformedMap: java.lang.Object transformValue(java.lang.Object)>
+<org.apache.commons.collections.functors.InvokerTransformer: java.lang.Object transform(java.lang.Object)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

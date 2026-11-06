@@ -1,0 +1,16 @@
+# key: af03510cf50c
+# sink: INVOKE
+# length: 11
+# IOCDs: 1033863433
+# payload: shard-1/outputs/chains/1033863433-af03510cf50cexp
+<javax.management.BadAttributeValueExpException: void readObject(java.io.ObjectInputStream)>
+<org.mozilla.javascript.NativeError: java.lang.String toString()>
+<org.mozilla.javascript.NativeError: java.lang.String js_toString(org.mozilla.javascript.Scriptable)>
+<org.mozilla.javascript.NativeError: java.lang.String getString(org.mozilla.javascript.Scriptable,java.lang.String)>
+<org.mozilla.javascript.ScriptableObject: java.lang.Object getProperty(org.mozilla.javascript.Scriptable,java.lang.String)>
+<org.mozilla.javascript.IdScriptableObject: java.lang.Object get(java.lang.String,org.mozilla.javascript.Scriptable)>
+<org.mozilla.javascript.ScriptableObject: java.lang.Object get(java.lang.String,org.mozilla.javascript.Scriptable)>
+<org.mozilla.javascript.ScriptableObject: java.lang.Object getImpl(java.lang.String,int,org.mozilla.javascript.Scriptable)>
+<org.mozilla.javascript.NativeJavaMethod: java.lang.Object call(org.mozilla.javascript.Context,org.mozilla.javascript.Scriptable,org.mozilla.javascript.Scriptable,java.lang.Object[])>
+<org.mozilla.javascript.MemberBox: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

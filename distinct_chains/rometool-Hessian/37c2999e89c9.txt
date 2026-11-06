@@ -1,0 +1,12 @@
+# key: 37c2999e89c9
+# sink: INVOKE
+# length: 7
+# IOCDs: 1681786992
+# payload: shard-3/outputs/chains/1681786992-37c2999e89c9exp
+<java.util.concurrent.ConcurrentHashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.concurrent.ConcurrentHashMap: java.lang.Object putVal(java.lang.Object,java.lang.Object,boolean)>
+<com.rometools.rome.feed.impl.ObjectBean: int hashCode()>
+<com.rometools.rome.feed.impl.EqualsBean: int beanHashCode()>
+<com.rometools.rome.feed.impl.ToStringBean: java.lang.String toString()>
+<com.rometools.rome.feed.impl.ToStringBean: java.lang.String toString(java.lang.String)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

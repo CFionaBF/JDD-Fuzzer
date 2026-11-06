@@ -1,0 +1,16 @@
+# key: 0c5301f0b1cc
+# sink: INVOKE
+# length: 11
+# IOCDs: 1014923716
+# payload: shard-0/outputs/chains/1014923716-0c5301f0b1ccexp
+<org.mozilla.javascript.NativeJavaObject: void readObject(java.io.ObjectInputStream)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<org.mozilla.javascript.JavaAdapter: java.lang.Object readAdapterObject(org.mozilla.javascript.Scriptable,java.io.ObjectInputStream)>
+<org.mozilla.javascript.JavaAdapter: java.lang.Class getAdapterClass(org.mozilla.javascript.Scriptable,java.lang.Class,java.lang.Class[],org.mozilla.javascript.Scriptable)>
+<org.mozilla.javascript.JavaAdapter: org.mozilla.javascript.ObjToIntMap getObjectFunctionNames(org.mozilla.javascript.Scriptable)>
+<org.mozilla.javascript.ScriptableObject: java.lang.Object getProperty(org.mozilla.javascript.Scriptable,java.lang.String)>
+<org.mozilla.javascript.NativeJavaArray: java.lang.Object get(java.lang.String,org.mozilla.javascript.Scriptable)>
+<org.mozilla.javascript.NativeJavaObject: java.lang.Object get(java.lang.String,org.mozilla.javascript.Scriptable)>
+<org.mozilla.javascript.JavaMembers: java.lang.Object get(org.mozilla.javascript.Scriptable,java.lang.String,java.lang.Object,boolean)>
+<org.mozilla.javascript.MemberBox: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>

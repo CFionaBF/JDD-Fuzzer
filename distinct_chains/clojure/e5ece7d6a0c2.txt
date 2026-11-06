@@ -1,0 +1,10 @@
+# key: e5ece7d6a0c2
+# sink: CLOJURE
+# length: 5
+# IOCDs: 1011384669
+# payload: shard-0/outputs/chains/1011384669-e5ece7d6a0c2exp
+<java.util.Collections$SetFromMap: void readObject(java.io.ObjectInputStream)>
+<clojure.core.proxy$clojure.lang.APersistentMap$ff19274a: java.util.Set keySet()>
+<clojure.core$comp$fn__4727: java.lang.Object invoke(java.lang.Object)>
+<clojure.main$eval_opt: java.lang.Object invoke(java.lang.Object)>
+<clojure.main$eval_opt: java.lang.Object invokeStatic(java.lang.Object)>

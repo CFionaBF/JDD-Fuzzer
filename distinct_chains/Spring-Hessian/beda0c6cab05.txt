@@ -1,0 +1,15 @@
+# key: beda0c6cab05
+# sink: JNDI
+# length: 9
+# IOCDs: 1919634250 610864352
+# payload: shard-0/outputs/chains/610864352-beda0c6cab05exp
+# payload: shard-2/outputs/chains/1919634250-beda0c6cab05exp
+<java.util.Hashtable: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<org.springframework.cglib.core.WeakCacheKey: boolean equals(java.lang.Object)>
+<javax.sound.sampled.AudioFileFormat$Type: boolean equals(java.lang.Object)>
+<org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator$PartiallyComparableAdvisorHolder: java.lang.String toString()>
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor: org.aopalliance.aop.Advice getAdvice()>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object getBean(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object doGetSingleton(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiLocatorSupport: java.lang.Object lookup(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiTemplate: java.lang.Object lookup(java.lang.String,java.lang.Class)>

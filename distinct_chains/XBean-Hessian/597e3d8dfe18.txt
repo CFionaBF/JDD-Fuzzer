@@ -1,0 +1,13 @@
+# key: 597e3d8dfe18
+# sink: JNDI
+# length: 8
+# IOCDs: 363407278
+# payload: shard-1/outputs/chains/363407278-597e3d8dfe18exp
+<java.util.HashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.HashMap: java.lang.Object putVal(int,java.lang.Object,java.lang.Object,boolean,boolean)>
+<java.lang.invoke.MethodType$ConcurrentWeakInternSet$WeakEntry: boolean equals(java.lang.Object)>
+<com.sun.org.apache.xpath.internal.objects.XString: boolean equals(java.lang.Object)>
+<javax.naming.Binding: java.lang.String toString()>
+<org.apache.xbean.naming.context.ContextUtil$ReadOnlyBinding: java.lang.Object getObject()>
+<org.apache.xbean.naming.context.ContextUtil: java.lang.Object resolve(java.lang.Object,java.lang.String,javax.naming.Name,javax.naming.Context)>
+<javax.naming.spi.NamingManager: java.lang.Object getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)>

@@ -1,0 +1,13 @@
+# key: a3f47e5bd373
+# sink: JNDI
+# length: 8
+# IOCDs: 1671191565
+# payload: shard-0/outputs/chains/1671191565-a3f47e5bd373exp
+<java.util.concurrent.ConcurrentHashMap: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<java.util.concurrent.ConcurrentHashMap: java.lang.Object putVal(java.lang.Object,java.lang.Object,boolean)>
+<org.springframework.aop.target.HotSwappableTargetSource: boolean equals(java.lang.Object)>
+<javax.sound.sampled.AudioFileFormat$Type: boolean equals(java.lang.Object)>
+<javax.naming.Binding: java.lang.String toString()>
+<org.apache.xbean.naming.context.ContextUtil$ReadOnlyBinding: java.lang.Object getObject()>
+<org.apache.xbean.naming.context.ContextUtil: java.lang.Object resolve(java.lang.Object,java.lang.String,javax.naming.Name,javax.naming.Context)>
+<javax.naming.spi.NamingManager: java.lang.Object getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)>

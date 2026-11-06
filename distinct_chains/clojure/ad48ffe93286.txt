@@ -1,0 +1,11 @@
+# key: ad48ffe93286
+# sink: CLOJURE
+# length: 6
+# IOCDs: 676819935
+# payload: shard-0/outputs/chains/676819935-ad48ffe93286exp
+<java.util.HashMap: void readObject(java.io.ObjectInputStream)>
+<java.util.HashMap: int hash(java.lang.Object)>
+<clojure.core.proxy$clojure.lang.APersistentMap$ff19274a: int hashCode()>
+<clojure.core$comp$fn__4727: java.lang.Object invoke(java.lang.Object)>
+<clojure.main$eval_opt: java.lang.Object invoke(java.lang.Object)>
+<clojure.main$eval_opt: java.lang.Object invokeStatic(java.lang.Object)>

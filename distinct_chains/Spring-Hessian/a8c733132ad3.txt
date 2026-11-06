@@ -1,0 +1,15 @@
+# key: a8c733132ad3
+# sink: JNDI
+# length: 9
+# IOCDs: 1433629032 1973062617
+# payload: shard-0/outputs/chains/1973062617-a8c733132ad3exp
+# payload: shard-3/outputs/chains/1433629032-a8c733132ad3exp
+<java.util.Hashtable: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<org.springframework.cglib.core.WeakCacheKey: boolean equals(java.lang.Object)>
+<com.sun.org.apache.xpath.internal.objects.XStringForFSB: boolean equals(java.lang.Object)>
+<org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator$PartiallyComparableAdvisorHolder: java.lang.String toString()>
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor: org.aopalliance.aop.Advice getAdvice()>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object getBean(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.support.SimpleJndiBeanFactory: java.lang.Object doGetSingleton(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiLocatorSupport: java.lang.Object lookup(java.lang.String,java.lang.Class)>
+<org.springframework.jndi.JndiTemplate: java.lang.Object lookup(java.lang.String,java.lang.Class)>

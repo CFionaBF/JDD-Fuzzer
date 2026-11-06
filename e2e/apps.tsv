@@ -1,0 +1,35 @@
+# Per-application settings of run_app_e2e.sh. Tab-separated; '-' = default.
+#   app          name of the run (JDD outPutDirName, fuzzer APP_NAME); dataset apps use JDD/IOCDDatasets/detected/<app> names
+#   jars         jar set under $DATA_JARS = the application's run-time classpath (the fuzzer's inputClassPath)
+#   analyze      glob(s) of the jars in that set JDD analyses, comma-separated (default: all of them)
+#   protocol     jdk | hessian | json                                         (default: jdk)
+#   sinks        JDD sinkRules; '+file' = the default set plus file          (default: exec,invoke,jndi,classLoad,custom)
+#   jdd_set      further JDD config.properties overrides, space-separated k=v (default: none)
+#   jdd_timeout  wall-clock limit of the JDD analysis in seconds              (default: 3600)
+# Fileupload: only the file sink (its known chain, FileUpload1, writes a file; the other sinks only add JDK-internal
+# RMI/JNDI chains there). Wicket: the default sinks plus file; with the file sink alone JDD reported 1000 chains (its
+# prioritizedGadgetChainLimit), 999 of them through JDK classes only.
+# protocol and sinks follow the sink types and protocol of the app's IOCDs in JDD/IOCDDatasets/detected/ (e.g. FILE
+# IOCDs => 'file' among the sinks). Which jars the paper's JDD runs analysed is not recorded there: all run-time jars
+# are analysed unless 'analyze' says otherwise.
+app	jars	analyze	protocol	sinks	jdd_set	jdd_timeout
+Fileupload	Fileupload	-	jdk	file	-	-
+Wicket	Wicket	-	jdk	+file	-	-
+JBossInterceptors	JBossInterceptors	-	jdk	-	-	-
+javassistWeld	javassistWeld	-	jdk	-	-	-
+BeanShell	BeanShell	-	jdk	-	-	-
+click1	click1	-	jdk	-	-	-
+clojure	clojure	-	jdk	-	-	-
+Myface	Myface	-	jdk	-	-	-
+hibernate	hibernate	-	jdk	-	-	-
+remo	remo	-	jdk	-	-	-
+cc4	cc4	-	jdk	-	-	-
+groovy	groovy	-	jdk	-	-	-
+CC3_CommonsBeanutils_AspectJWeaver	CC3_CommonsBeanutils_AspectJWeaver	-	jdk	+file	-	-
+vaadin	vaadin	vaadin-server-*.jar	jdk	-	-	-
+MozillaRhino	MozillaRhino-fuzz	js-*.jar	jdk	-	-	14400
+Resin-Hessian	Resin-Hessian	-	hessian	-	-	-
+Spring-Hessian	Spring-Hessian[SpringAbstractBeanFactoryPointcutAdvisor1+SpringPartiallyComparableAdvisorHolder1]	-	hessian	-	-	-
+XBean-Hessian	XBean-Hessian	-	hessian	-	-	-
+fastjson2-Hessian	fastjson2-Hessian	-	hessian	-	-	-
+rometool-Hessian	rometool-Hessian	-	hessian	-	-	-

@@ -1,0 +1,11 @@
+# key: 05bfc98b3490
+# sink: INVOKE
+# length: 6
+# IOCDs: 314855991
+# payload: shard-1/outputs/chains/314855991-05bfc98b3490exp
+<java.util.Hashtable: java.lang.Object put(java.lang.Object,java.lang.Object)>
+<com.rometools.rome.feed.impl.EqualsBean: int hashCode()>
+<com.rometools.rome.feed.impl.EqualsBean: int beanHashCode()>
+<com.rometools.rome.feed.impl.ToStringBean: java.lang.String toString()>
+<com.rometools.rome.feed.impl.ToStringBean: java.lang.String toString(java.lang.String)>
+<java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])>
